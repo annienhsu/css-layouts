@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100px;
+    clear: both;
+    background-color: azure;
+    border: 2px solid gold;
+}
+
+section {
+    border: 2px solid gold;
+    height: 300px;
+    float: left;
+}
+
+.small {
+    background-color: lavender;
+    width: 20%;
+}
+
+.big {
+    background-color: mistyrose;
+    width: 40%;
+}

@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100px;
+    clear: both;
+    background-color: azure;
+}
+
+header, footer, section {
+    border: 2px solid gold;
+}
+
+.upper {
+    height: 150px;
+    width: 33.3333%;
+    float:left;
+    background-color: lavender;
+}
+
+.lower {
+    height: 200px;
+    width: 50%;
+    float:left;
+    background-color: mistyrose 
+}

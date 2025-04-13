@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100px;
+    clear: both;
+    background-color: azure;
+    border: 2px solid gold;
+}
+
+section {
+    border: 2px solid gold;
+}
+
+.miso {
+    background-color: lavender;
+    height: 150px;
+}
+
+.float {
+    background-color: mistyrose;
+    height: 150px;
+    float: left;
+}
+
+.one {
+    height: 200px;
+    width: 40%;
+}
+
+.two {
+    height: 200px;
+    width: 60%;
+}
